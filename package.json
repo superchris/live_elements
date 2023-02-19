@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "phoenix-custom-event-hook": "^0.0.5"
+  }
+}
